@@ -2,7 +2,7 @@
 Prerequisites
 -	Writing code in JavaScript 
 -	For this project I'm using Windows OS
--	MetaMask Wallet ( for this project I'm using Goerli testnet Polygon) 
+-	MetaMask Wallet ( for this project I'm using Goerli testnet) 
 -	Node.js 
 -	Visual Studio Code (VSC) 
 -	Gitbash 
